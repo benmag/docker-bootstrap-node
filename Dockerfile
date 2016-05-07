@@ -1,6 +1,6 @@
 FROM ubuntu:trusty
 
-MAINTAINER Ben Maggacis, ben.maggacis@qut.edu.au
+MAINTAINER Ben M, git@bmagg.com
 
 # Install packages
 RUN apt-get update && apt-get -yq install nodejs npm
